@@ -29,3 +29,7 @@ Aliar design visual marcante com fundamentos sólidos de engenharia de software,
 
 **Guilherme Souza**  
 Estudante de Engenharia de Software apaixonado por tecnologia, design responsivo e interfaces com personalidade gamer.
+
+## ⚠️ Observação sobre imagens
+
+Algumas imagens utilizadas no projeto, como artes de *Gears of War*, foram incluídas **exclusivamente com finalidade acadêmica e educacional**, sem fins comerciais. Todos os direitos pertencem aos seus respectivos criadores e estúdios.
